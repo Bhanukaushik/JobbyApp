@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/Jobby_App/static/css/main.b593420d.chunk.css",
+    "main.js": "/github.io/Jobby_App/static/js/main.62930534.chunk.js",
+    "main.js.map": "/github.io/Jobby_App/static/js/main.62930534.chunk.js.map",
+    "runtime-main.js": "/github.io/Jobby_App/static/js/runtime-main.0c782a46.js",
+    "runtime-main.js.map": "/github.io/Jobby_App/static/js/runtime-main.0c782a46.js.map",
+    "static/css/2.91ac4a78.chunk.css": "/github.io/Jobby_App/static/css/2.91ac4a78.chunk.css",
+    "static/js/2.0a63809c.chunk.js": "/github.io/Jobby_App/static/js/2.0a63809c.chunk.js",
+    "static/js/2.0a63809c.chunk.js.map": "/github.io/Jobby_App/static/js/2.0a63809c.chunk.js.map",
+    "index.html": "/github.io/Jobby_App/index.html",
+    "static/css/2.91ac4a78.chunk.css.map": "/github.io/Jobby_App/static/css/2.91ac4a78.chunk.css.map",
+    "static/css/main.b593420d.chunk.css.map": "/github.io/Jobby_App/static/css/main.b593420d.chunk.css.map",
+    "static/js/2.0a63809c.chunk.js.LICENSE.txt": "/github.io/Jobby_App/static/js/2.0a63809c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c782a46.js",
+    "static/css/2.91ac4a78.chunk.css",
+    "static/js/2.0a63809c.chunk.js",
+    "static/css/main.b593420d.chunk.css",
+    "static/js/main.62930534.chunk.js"
+  ]
+}
